@@ -1,0 +1,16 @@
+{
+  "debug": true,
+  "server": {
+    "port": ":9000"
+  },
+  "context": {
+    "timeout": 5
+  },
+  "database": {
+    "host": "",
+    "port": "",
+    "name": "",
+    "user": "",
+    "pass": ""
+  }
+}
